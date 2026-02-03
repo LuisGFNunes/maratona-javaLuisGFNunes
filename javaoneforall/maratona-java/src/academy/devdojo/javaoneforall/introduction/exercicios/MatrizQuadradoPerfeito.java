@@ -40,7 +40,5 @@ public class MatrizQuadradoPerfeito {
         } else {
             System.out.println("Não é um quadrado perfeito");
         }
-
-
     }
 }
